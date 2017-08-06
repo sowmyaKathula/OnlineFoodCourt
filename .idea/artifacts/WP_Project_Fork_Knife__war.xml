@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="WP_Project(Fork&amp;Knife):war">
+    <output-path>$PROJECT_DIR$/out/artifacts/WP_Project_Fork_Knife__war</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="WP_Project(Fork&amp;Knife)" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="json-simple-1.1.1" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="WP_Project(Fork&amp;Knife)/web/Web" />
+    </root>
+  </artifact>
+</component>
